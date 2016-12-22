@@ -1,0 +1,23 @@
+{
+  "name": "cards-test",
+  "version": "1.0.0",
+  "description": "Playing card animation test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoLewis/cards-test.git"
+  },
+  "author": "Roberto Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoLewis/cards-test/issues"
+  },
+  "homepage": "https://github.com/RobertoLewis/cards-test#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
